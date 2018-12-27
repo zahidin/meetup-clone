@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zahidcode/data/react native/MeetupClone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/zahidcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e3fd896ce10a11e5c9b89411a9aabe9/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

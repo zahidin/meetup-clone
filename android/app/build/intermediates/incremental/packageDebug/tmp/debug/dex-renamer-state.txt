@@ -1,0 +1,4 @@
+#Thu Dec 06 20:05:53 WIB 2018
+base.0=/home/zahidcode/data/react native/MeetupClone/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
