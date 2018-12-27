@@ -1,6 +1,6 @@
 # Meetup Clone React Native
 
-## Installasion
+## Installation
 ```
 $ git clone https://github.com/zahidin/meetup-clone
 $ cd meetup-clone
